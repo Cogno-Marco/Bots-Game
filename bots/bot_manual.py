@@ -2,7 +2,7 @@ import sys
 from typing import List, Tuple, Final
 
 """
-BOT VERSION: 1.1.1
+BOT VERSION: 1.1.2
 """
 
 class Vec:

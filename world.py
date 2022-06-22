@@ -8,7 +8,7 @@ import os
 import sys
 
 """
-WORLD VERSION: 1.1.1
+WORLD VERSION: 1.1.2
 """
 
 
@@ -80,11 +80,11 @@ class Map:
         self.map: List[List[None | Troop | Resource]] = [[None for _ in range(self.width)] for _ in range(self.height)]
 
     def get_cell(self, pos: Vec) -> None | Troop | Resource:
-        true_cell = (map_height - pos.y - 1, pos.x)
+        true_cell = (self.height - pos.y - 1, pos.x)
         return self.map[true_cell[0]][true_cell[1]]
 
     def set_cell(self, pos: Vec, obj: None | Resource | Troop):
-        true_cell = (map_height - pos.y - 1, pos.x)
+        true_cell = (self.height - pos.y - 1, pos.x)
         self.map[true_cell[0]][true_cell[1]] = obj
 
     def print_formatted(self, player1, player2):
@@ -543,14 +543,12 @@ if __name__ == '__main__':
     sleep_time: float
     debug: bool
 
-
     def is_float(val) -> bool:
         try:
             float(val)
             return True
         except ValueError:
             return False
-
 
     # get bots names from command line arguments
     match sys.argv:

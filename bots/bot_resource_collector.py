@@ -3,7 +3,7 @@ from typing import List, Tuple
 from math import sqrt
 
 """
-BOT VERSION: 1.1.1
+BOT VERSION: 1.1.2
 """
 
 class Vec:

@@ -1,4 +1,4 @@
-# API VERSION 1.1.1
+# API VERSION 1.1.2
 
 
 # Game Rules
