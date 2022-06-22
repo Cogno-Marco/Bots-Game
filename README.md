@@ -16,9 +16,9 @@ The game is competitive, we've organized an ELO system based on how many matches
 |    Creator    |          Bot Name          | Version |  Rank  |
 |:-------------:|:--------------------------:|:-------:|:------:|
 |   `Quattro`   |       `Quattro Bot`        |  `V.1`  | `1552` |
-|     `Mr`      |      `Papaya Fighter`      |  `V.3`  | `1174` |
-|     `Mr`      |      `Papaya Fighter`      |  `V.2`  | `1137` |
-|     `Mr`      |      `Papaya Fighter`      |  `V.1`  | `1129` |
+|     `Mr`      |      `PapayaFighter`       |  `V.3`  | `1174` |
+|     `Mr`      |      `PapayaFighter`       |  `V.2`  | `1137` |
+|     `Mr`      |      `PapayaFighter`       |  `V.1`  | `1129` |
 |    `Hexye`    |        `Hexye Bot`         |  `V.2`  | `715`  |
 | `Cogno-Marco` | `Resource Collector Multy` |  `V.1`  | `651`  |
 |    `Hexye`    |        `Hexye Bot`         |  `V.1`  | `642`  |
