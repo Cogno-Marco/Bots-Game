@@ -13,15 +13,15 @@ Here's 2 bots competing against each other (red vs blue, green = resources)
 
 The game is competitive, we've organized an ELO system based on how many matches you win.
 
-|            Creator             |  Version  | Rank |
-|:------------------------------:|:---------:|:----:|
-|           `Quattro`            |    V.1    | 1552 |
-|              `Mr`              |    V.3    | 1174 |
-|              `Mr`              |    V.2    | 1137 |
-|              `Mr`              |    V.1    | 1129 |
-|            `Hexye`             |    V.2    | 715  |
-| `Bot Resource Collector Multy` |    V.1    | 651  |
-|            `Hexye`             |    V.1    | 642  |
+|    Creator    |          Bot Name          | Version |  Rank  |
+|:-------------:|:--------------------------:|:-------:|:------:|
+|   `Quattro`   |       `Quattro Bot`        |  `V.1`  | `1552` |
+|     `Mr`      |      `Papaya Fighter`      |  `V.3`  | `1174` |
+|     `Mr`      |      `Papaya Fighter`      |  `V.2`  | `1137` |
+|     `Mr`      |      `Papaya Fighter`      |  `V.1`  | `1129` |
+|    `Hexye`    |        `Hexye Bot`         |  `V.2`  | `715`  |
+| `Cogno-Marco` | `Resource Collector Multy` |  `V.1`  | `651`  |
+|    `Hexye`    |        `Hexye Bot`         |  `V.1`  | `642`  |
 
 
 ## Send us your bot!
